@@ -80,6 +80,6 @@ source .venv/bin/activate
 2. Run the tests using the following command:
 
 ```
-python manage.py test
+python manage.py test Thing
 ```
 This will execute all the tests and display the test results.
